@@ -1,0 +1,1 @@
+Keep all the assets in this folder
